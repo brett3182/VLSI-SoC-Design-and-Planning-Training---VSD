@@ -12,4 +12,6 @@ Report and Flop-ratio:
 = 1613 / 14876  
 = 0.1084
 
-Hence, the flop ratio is 10.84%
+Hence, the flop ratio is 10.84% 
+
+## #**Day 2 Labs**
