@@ -22,6 +22,7 @@ Floorplan of picorv32a completed:
 Dimensions of the die: 
 ![image alt](https://github.com/brett3182/VLSI-SoC-Design-and-Planning-Training---VSD/blob/main/images/Dimensions%20of%20the%20die.png?raw=true) 
 
-Height = 660.685um, Width = 671.405um
+Height = 660.685um, Width = 671.405um 
+
 Area = 660.685um x 671.405um = 0.443mm²
 
