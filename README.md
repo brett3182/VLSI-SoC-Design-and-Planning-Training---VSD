@@ -2,9 +2,11 @@
 
 ## #**Day 1 Labs**
 Synthesis of picorv32a completed: 
+
 ![image alt](https://github.com/brett3182/VLSI-SoC-Design-and-Planning-Training---VSD/blob/main/images/Synthesis%20Successful.png?raw=true) 
 
 Report and Flop-ratio: 
+
 ![image alt](https://github.com/brett3182/VLSI-SoC-Design-and-Planning-Training---VSD/blob/main/images/Flop%20ratio.png?raw=true) 
 
 **Flop Ratio** = Number of D Flip Flops / Number of Cells  
@@ -38,7 +40,7 @@ The standard cells are present at the bottom left corner
 
 ![image alt](https://github.com/brett3182/VLSI-SoC-Design-and-Planning-Training---VSD/blob/main/images/standard%20cells.png?raw=true) 
 
-After floorplan, placement is carried out
+After floorplan, placement is carried out  
 Placement of picorv32a successful: 
 
 ![image alt](https://github.com/brett3182/VLSI-SoC-Design-and-Planning-Training---VSD/blob/main/images/Placement%20successful.png?raw=true) 
